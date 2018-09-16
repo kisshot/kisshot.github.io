@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Welcome to Python: Bilibili_User!"
+date:   2018-9-16
+excerpt: "Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do"
+image: "/images/pic02.jpg"
+---
 # Bilibili_Users
 使用Redis,Scrapy,MongoDB实现分布式爬虫，抓取Bilibil用户信息
 这个项目是我初学爬虫的应用，接下来的几个月我将会逐步完善代码。
